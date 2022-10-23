@@ -17,7 +17,7 @@
 > Poster presentation: “Generalized power law models in bibliometrics” [Poster prize](https://imforfuture.eu/modern-statistics-for-interdisciplinary-omics-and-big-data/)
 > [Organising committee](https://imforfuture.eu/meeting-committees/)
 
-> Spring School “Complex Networks” (Darmstadt, Germany, 2020). 
+> - Spring School “Complex Networks” (Darmstadt, Germany, 2020). 
 > Oral talk: “Citation networks and integer partitions”
 
 
