@@ -1,3 +1,8 @@
 # Ruheyan.github.io
 
-theme:minima
+theme:architect
+
+title:[Ruheyan Nuermaimaiti]
+
+description:[This is my personal page]
+
