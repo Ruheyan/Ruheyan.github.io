@@ -5,21 +5,29 @@ I am a PhD researcher in the School of Mathematics of the University of Leeds.
 ## Conferences and Seminars
 
 > - Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 2022)
+>
 > Oral presentation: “Statistical Modelling of Citations of Research Papers: A Comparative Study”
 
 > - Conference “Postgraduate Research Conference 2022” (Leeds, 2022)
+>
 > Oral presentation: “Statistical Modelling of Citations: in Search of a ‘Good’ Model” Best Statistics Talk Prize
 
 > - Conference “18th International Conference on Scientometrics & Informatics (ISSI2021)” (Leuven, Belgium, 2021, online).
+>
 > Oral presentation: “A generalized power law model of citations” [Youtube video](https://www.youtube.com/watch?v=GlT3H774qL8)
+>
 > Doctoral Forum presentation: “Statistical modelling in bibliometrics”
+>
 > [ISSI Student Travel Award](https://www.issi-society.org/awards/issi-student-travel-award/)
 
 > - Workshop “Modern Statistics for Interdisciplinary Omics and Big Data” (Leeds, 2021, online).
+>
 > Poster presentation: “Generalized power law models in bibliometrics” [Poster prize](https://imforfuture.eu/modern-statistics-for-interdisciplinary-omics-and-big-data/)
+>
 > [Organising committee](https://imforfuture.eu/meeting-committees/)
 
-> - Spring School “Complex Networks” (Darmstadt, Germany, 2020). 
+> - Spring School “Complex Networks” (Darmstadt, Germany, 2020).
+>
 > Oral talk: “Citation networks and integer partitions”
 
 
