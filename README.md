@@ -1,8 +1,4 @@
-# Ruheyan.github.io
+# Ruheyan Nuermaimaiti
 
-theme:architect
 
-title:[Ruheyan Nuermaimaiti]
-
-description:[This is my personal page]
 
