@@ -1,5 +1,7 @@
 # Ruheyan Nuermaimaiti
 
+I am a PhD researcher in the School of Mathematics of the University of Leeds. 
+
 ## Conferences and Seminars
 
 > - Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 2022)
