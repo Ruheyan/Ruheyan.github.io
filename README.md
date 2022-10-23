@@ -1,3 +1,3 @@
 # Ruheyan.github.io
 
-theme:Architect
+theme:minima
