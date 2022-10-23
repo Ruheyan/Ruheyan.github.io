@@ -4,9 +4,9 @@ I am a PhD researcher in the School of Mathematics of the University of Leeds.
 
 ## Conferences and Seminars
 
-* Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 2022)
-  
-  Oral presentation: “Statistical Modelling of Citations of Research Papers: A Comparative Study”
+> * Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 2022)
+> 
+> Oral presentation: “Statistical Modelling of Citations of Research Papers: A Comparative Study”
 
 > * Conference “Postgraduate Research Conference 2022” (Leeds, 2022)
 > Oral presentation: “Statistical Modelling of Citations: in Search of a ‘Good’ Model” Best Statistics Talk Prize
