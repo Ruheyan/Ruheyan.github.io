@@ -14,10 +14,11 @@
 > [ISSI Student Travel Award](https://www.issi-society.org/awards/issi-student-travel-award/)
 
 > - Workshop “Modern Statistics for Interdisciplinary Omics and Big Data” (Leeds, 2021, online).
-> Poster presentation: “Generalized power law models in bibliometrics” (Poster prize)[https://imforfuture.eu/modern-statistics-for-interdisciplinary-omics-and-big-data/]
+> Poster presentation: “Generalized power law models in bibliometrics” [Poster prize](https://imforfuture.eu/modern-statistics-for-interdisciplinary-omics-and-big-data/)
 > [Organising committee](https://imforfuture.eu/meeting-committees/)
 
-
+> Spring School “Complex Networks” (Darmstadt, Germany, 2020). 
+> Oral talk: “Citation networks and integer partitions”
 
 
 ## Publications
