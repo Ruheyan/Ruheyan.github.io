@@ -4,23 +4,26 @@ I am a Teaching Assistant in Statistics in the School of Mathematics of the Univ
 
 ## Selected Work Expenrience
 
-> ### Teaching Assistant in Statistics, University of Leeds, Apr 2023 -- Present
-> 
->    Teaching: MATH1710 Probability and Statistics
-> 
->    Exam marking: MATH2725 
-> 
->    Summer project: Tutor feedback tool
+> ### Teaching Assistant in Statistics
+  ##### University of Leeds, Apr 2023 -- Present
 
-> ### Research Statistician Intern, Proctor and Gamble (P&G) Leeds Simulation Centre, Aug 2021 -- Aug 2022
->
->    Statistical Consulting · Principal Component Analysis · Statistical Data Analysis · MaxDiff · JMP
+    Teaching: MATH1710 Probability and Statistics
 
-> ### Tutor as a posgraduate, University of Leeds, Jan 2019 -- Jun 2022
-> 
->    Tutorials: MATH1710 Probability & Statistics I; MATH1712 Probability & Statistics II
-> 
->    R Practical Sessions: MATH5835M Statistical Computing; MATH3823/5824M Generalised Linear Models;
+    Exam marking: MATH2725 
+ 
+    Summer project: Tutor feedback tool
+
+> ### Research Statistician Intern
+  ##### Proctor and Gamble (P&G) Leeds Simulation Centre, Aug 2021 -- Aug 2022
+
+    Statistical Consulting · Principal Component Analysis · Statistical Data Analysis · MaxDiff · JMP
+
+> ### Tutor as a posgraduate
+  ##### University of Leeds, Jan 2019 -- Jun 2022
+  
+  Tutorials: MATH1710 Probability & Statistics I; MATH1712 Probability & Statistics II
+  
+  R Practical Sessions: MATH5835M Statistical Computing; MATH3823/5824M Generalised Linear Models;
 MATH3772 Multivariate Analysis; Math3723 Statistical Theory; MATH2750 Introduction to Markov
 Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutness
 
