@@ -4,7 +4,7 @@ I am a Teaching Assistant in Statistics in the School of Mathematics of the Univ
 
 ## Selected Work Expenrience
 
-> ### Teaching Assistant in Statistics, University of Leeds, April 2023 -- Present
+> ### Teaching Assistant in Statistics, University of Leeds, Apr 2023 -- Present
 > 
 >    Teaching: MATH1710 Probability and Statistics
 > 
@@ -14,7 +14,7 @@ I am a Teaching Assistant in Statistics in the School of Mathematics of the Univ
 
 > ### Research Statistician Intern, Proctor and Gamble (P&G) Leeds Simulation Centre, Aug 2021 -- Aug 2022
 >
->     Statistical Consulting · Principal Component Analysis · Statistical Data Analysis · MaxDiff · JMP
+>    Statistical Consulting · Principal Component Analysis · Statistical Data Analysis · MaxDiff · JMP
 
 > ### Tutor as a posgraduate, University of Leeds, Jan 2019 -- Jun 2022
 > 
@@ -32,17 +32,17 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 
 
 ## Conferences and Seminars
-> * [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 2023)
+> * [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 25 May 2023)
 
-> * Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 2022)
+> * Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 21–24 Jun 2022)
 >
 >   Oral presentation: “Statistical Modelling of Citations of Research Papers: A Comparative Study”
 
-> * Conference “Postgraduate Research Conference 2022” (Leeds, 2022)
+> * Conference “Postgraduate Research Conference 2022” (Leeds, 15-17 Jun 2022)
 > 
 >   Oral presentation: “Statistical Modelling of Citations: in Search of a ‘Good’ Model” Best Statistics Talk Prize
 
-> * Conference “18th International Conference on Scientometrics & Informatics (ISSI2021)” (Leuven, Belgium, 2021, online).
+> * Conference “18th International Conference on Scientometrics & Informatics (ISSI2021)” (Leuven, Belgium, 12-15 Jul 2021, online).
 > 
 >   Oral presentation: “A generalized power law model of citations” [YouTube video](https://www.youtube.com/watch?v=GlT3H774qL8)
 >   
@@ -50,13 +50,13 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 >   
 >   [ISSI Student Travel Award](https://www.issi-society.org/awards/issi-student-travel-award/)
 
-> * Workshop “Modern Statistics for Interdisciplinary Omics and Big Data” (Leeds, 2021, online).
+> * Workshop “Modern Statistics for Interdisciplinary Omics and Big Data” (Leeds, 28-30 Jun 2021, online).
 > 
 >   Poster presentation: “Generalized power law models in bibliometrics” [Poster prize](https://imforfuture.eu/modern-statistics-for-interdisciplinary-omics-and-big-data/)
 >   
 >   [Organising committee](https://imforfuture.eu/meeting-committees/)
 
-> * Spring School “Complex Networks” (Darmstadt, Germany, 2020).
+> * Spring School “Complex Networks” (Darmstadt, Germany, 2-6 Mar 2020).
 > 
 >   Oral talk: “Citation networks and integer partitions”
 
