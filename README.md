@@ -36,4 +36,4 @@ I am a PhD researcher in the School of Mathematics of the University of Leeds.
 
 > -***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2021). [A generalized power law model of citations.](https://eprints.whiterose.ac.uk/179166/) In 18th International Conference on Scientometrics & Informetrics (ISSI 2021). Proceedings, pp. 843-848. International Society for Scientometrics and Informetrics, 2021. 
 
-> -L.V. Bogachev,***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
+> -L.V. Bogachev, ***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
