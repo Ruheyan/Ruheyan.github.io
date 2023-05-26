@@ -3,6 +3,7 @@
 I am a PhD researcher in the School of Mathematics of the University of Leeds. 
 
 ## Conferences and Seminars
+> * [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 2023)
 
 > * Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 2022)
 >
@@ -31,6 +32,8 @@ I am a PhD researcher in the School of Mathematics of the University of Leeds.
 >   Oral talk: “Citation networks and integer partitions”
 
 
-## Publications
+## Publications and Preprints
 
 > -***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2021). [A generalized power law model of citations.](https://eprints.whiterose.ac.uk/179166/) In 18th International Conference on Scientometrics & Informetrics (ISSI 2021). Proceedings, pp. 843-848. International Society for Scientometrics and Informetrics, 2021. 
+
+> -L.V. Bogachev,***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
