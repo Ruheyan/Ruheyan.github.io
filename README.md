@@ -1,6 +1,35 @@
 # Ruheyan Nuermaimaiti
 
-I am a PhD researcher in the School of Mathematics of the University of Leeds. 
+I am a Teaching Assistant in Statistics in the School of Mathematics of the University of Leeds. 
+
+## Selected Work Expenrience
+
+> ### Teaching Assistant in Statistics, University of Leeds, April 2023 -- Present
+> 
+>    Teaching: MATH1710 Probability and Statistics
+> 
+>    Exam marking: MATH2725 
+> 
+>    Summer project: Tutor feedback tool
+
+> ### Research Statistician Intern, Proctor and Gamble (P&G) Leeds Simulation Centre, Aug 2021 -- Aug 2022
+>
+>     Statistical Consulting · Principal Component Analysis · Statistical Data Analysis · MaxDiff · JMP
+
+> ### Tutor as a posgraduate, University of Leeds, Jan 2019 -- Jun 2022
+> 
+>    Tutorials: MATH1710 Probability & Statistics I; MATH1712 Probability & Statistics II
+> 
+>    R Practical Sessions: MATH5835M Statistical Computing; MATH3823/5824M Generalised Linear Models;
+MATH3772 Multivariate Analysis; Math3723 Statistical Theory; MATH2750 Introduction to Markov
+Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutness
+
+## Publications and Preprints
+
+> -***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2021). [A generalized power law model of citations.](https://eprints.whiterose.ac.uk/179166/) In 18th International Conference on Scientometrics & Informetrics (ISSI 2021). Proceedings, pp. 843-848. International Society for Scientometrics and Informetrics, 2021. 
+
+> -L.V. Bogachev, ***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution.](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
+
 
 ## Conferences and Seminars
 > * [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 2023)
@@ -32,8 +61,3 @@ I am a PhD researcher in the School of Mathematics of the University of Leeds.
 >   Oral talk: “Citation networks and integer partitions”
 
 
-## Publications and Preprints
-
-> -***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2021). [A generalized power law model of citations.](https://eprints.whiterose.ac.uk/179166/) In 18th International Conference on Scientometrics & Informetrics (ISSI 2021). Proceedings, pp. 843-848. International Society for Scientometrics and Informetrics, 2021. 
-
-> -L.V. Bogachev, ***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
