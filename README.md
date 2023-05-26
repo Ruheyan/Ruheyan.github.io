@@ -16,7 +16,7 @@ I am a Teaching Assistant in Statistics in the School of Mathematics of the Univ
 > ### Research Statistician Intern
   Proctor and Gamble (P&G) Leeds Simulation Centre, Aug 2021 -- Aug 2022
   
-  Statistical Consulting · Principal Component Analysis · Statistical Data Analysis · MaxDiff · JMP
+  Statistical Consulting · Principal Component Analysis · Data Analysis · MaxDiff · JMP
 
 > ### Tutor as a posgraduate
   University of Leeds, Jan 2019 -- Jun 2022
