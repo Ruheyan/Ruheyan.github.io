@@ -2,7 +2,7 @@
 
 I am a Teaching Assistant in Statistics at the School of Mathematics, University of Leeds. I completed my PhD under the supervision of Dr. Leonid Bogachev and Dr. Jochen Voss at the University of Leeds. My doctoral thesis, titled "Statistical Models for Frequency Distributions of Count Data with Applications to Scientometrics," focused on investigating the statistical modelling of count data, common in diverse fields, including bibliometrics and scientometrics. My research interests include statistical modelling, limit shapes, bibliometrics etc.
 
-![](/Ruheyan.github.io/EJP-GPL-CCDF.png)
+![ ](/Ruheyan.github.io/EJPGPLCCDF.png)
 
 ## Selected Work Expenrience
 
