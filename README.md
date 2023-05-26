@@ -15,7 +15,7 @@ I am a PhD researcher in the School of Mathematics of the University of Leeds.
 
 > * Conference “18th International Conference on Scientometrics & Informatics (ISSI2021)” (Leuven, Belgium, 2021, online).
 > 
->   Oral presentation: “A generalized power law model of citations” [Youtube video](https://www.youtube.com/watch?v=GlT3H774qL8)
+>   Oral presentation: “A generalized power law model of citations” [YouTube video](https://www.youtube.com/watch?v=GlT3H774qL8)
 >   
 >   Doctoral Forum presentation: “Statistical modelling in bibliometrics”
 >   
