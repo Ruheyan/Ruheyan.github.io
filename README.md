@@ -66,7 +66,7 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
    
    [Organising committee](https://imforfuture.eu/meeting-committees/)
 
- * Spring School “Complex Networks” (Darmstadt, Germany, 2-6 Mar 2020).
+ * [Spring School “Complex Networks”](https://www2.mathematik.tu-darmstadt.de/~aurzada/springschool/index.html) (Darmstadt, Germany, 2-6 Mar 2020).
  
    Oral talk: “Citation networks and integer partitions”
 
