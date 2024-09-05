@@ -1,13 +1,21 @@
-# Ruheyan (Rukia) Nuermaimaiti
+# Dr Ruheyan (Rukia) Nuermaimaiti, AFHEA
 
-I am a Teaching Assistant in Statistics at the School of Mathematics, University of Leeds. I am a PhD candidate under the supervision of Dr. Leonid Bogachev and Dr. Jochen Voss at the University of Leeds. My doctoral thesis, titled "Statistical Models for Frequency Distributions of Count Data with Applications to Scientometrics," focused on investigating the statistical modelling of count data, common in diverse fields, including bibliometrics and scientometrics. My research interests include statistical modelling, limit shapes, bibliometrics etc.
+I am a Teaching Fellow in Statistics at the School of Mathematics, University of Leeds. 
+
+My PhD was under the supervision of Dr. Leonid Bogachev and Dr. Jochen Voss at the University of Leeds. My doctoral thesis, titled "Statistical Models for Frequency Distributions of Count Data with Applications to Scientometrics," focused on investigating the statistical modelling of count data, common in diverse fields, including bibliometrics and scientometrics. My research interests include statistical modelling, limit shapes, bibliometrics etc.
 
 ![ ](/EJPGPLCCDF.png)
 
 ## Selected Work Expenrience
 
+> ### Teaching Fellow in Statistics
+ University of Leeds, Jan 2024 -- 
+
+Module leader for: MATH27775 Survival Analysis ; MATH5745 Multivariate Method (23/24)
+              MATH5741 Statistical Theory and Methods; MATH1603 Data Science and Communication (24/25)
+
 > ### Teaching Assistant in Statistics
-  University of Leeds, Apr 2023 -- Present
+  University of Leeds, Apr 2023 -- Jan 2024
   
   Teaching: MATH1710 Probability and Statistics
 
@@ -40,9 +48,16 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 - L.V. Bogachev, ***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution.](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
 
 
-## Conferences and Seminars
+## Research Conferences and Seminars
 
- * [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 25 May 2023)
+ *   RSS International Conference 2024 (Brighton, 2024)
+   
+   Contributed talk: “Beyond Diminishing Returns: A New Scoring System for Powerlifting”
+     
+* 	STEM for BRITAIN 2024 - Maths Finalist, poster presentation in House of Parliament (London, 2024)
+ [Poster](https://stemforbritain.org.uk/2024-Posters/POS_Ruheyan%20Nuermaimaiti_GhcLM.pdf)
+
+ *   [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 25 May 2023)
 
  * Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 21–24 Jun 2022)
 
@@ -69,5 +84,18 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
  * [Spring School “Complex Networks”](https://www2.mathematik.tu-darmstadt.de/~aurzada/springschool/index.html) (Darmstadt, Germany, 2-6 Mar 2020).
  
    Oral talk: “Citation networks and integer partitions”
+
+
+## Teaching Training Workshops & Conferences
+
+* PGCAP (Sep 2024 --) 
+
+* Workshop “Assessment in Mathematics and its Effect on Student Wellbeing” (Greenwich, 2023)
+  
+* Workshop “Outreach and widening participation in mathematical sciences” (Glasgow, 2023)
+  
+* Conference “Effective Teaching Mathematics as a Postgraduate” (Sheffield, 2023) 
+
+
 
 
