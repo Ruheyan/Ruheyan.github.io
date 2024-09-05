@@ -104,7 +104,7 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
   
 * Workshop “[Outreach and widening participation in mathematical sciences](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/teaching/statisticsanddataanalyticseducationalgroup/outreachandwideningparticipation/workshop1/)” (Glasgow, 2023)
   
-* [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 2023)
+* Workshop "[Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home)" (Sheffield, 2023)
 
 
 
