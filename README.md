@@ -67,8 +67,6 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 * 	STEM for BRITAIN 2024 - Maths Finalist, poster presentation in House of Parliament (London, 2024)
  [Poster](https://stemforbritain.org.uk/2024-Posters/POS_Ruheyan%20Nuermaimaiti_GhcLM.pdf)
 
- *   [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 25 May 2023)
-
  * Early Career Researchers in Mathematics [ECRM2022](https://www.homepages.ucl.ac.uk/~ucahwas/ecrm/) (London, 21–24 Jun 2022)
 
    Oral presentation: “Statistical Modelling of Citations of Research Papers: A Comparative Study”
@@ -98,13 +96,15 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 
 ## Teaching Training, Workshops & Conferences
 
-* PGCAP (Sep 2024 --) 
+* [PGCAP](https://studenteddev.leeds.ac.uk/pgcap/) (Sep 2024 --) 
 
-* Workshop “Assessment in Mathematics and its Effect on Student Wellbeing” (Greenwich, 2023)
+* [UKCOTS](https://www.ukcots.org/) (June, 2024)
+
+* Workshop “[Assessment in Mathematics and its Effect on Student Wellbeing](https://www.gre.ac.uk/events/current-events/faculty-of-engineering-and-science/workshop-on-assessment-in-mathematics-and-its-effect-on-student-wellbeing)” (Greenwich, 2023)
   
-* Workshop “Outreach and widening participation in mathematical sciences” (Glasgow, 2023)
+* Workshop “[Outreach and widening participation in mathematical sciences](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/teaching/statisticsanddataanalyticseducationalgroup/outreachandwideningparticipation/workshop1/)” (Glasgow, 2023)
   
-* Conference “Effective Teaching Mathematics as a Postgraduate” (Sheffield, 2023) 
+* [Effective Teaching Mathematics as a Postgraduate](https://sites.google.com/sheffield.ac.uk/ima-rss-pgr-teaching-workshop/home) (Sheffield, 2023)
 
 
 
