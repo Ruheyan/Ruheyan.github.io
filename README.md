@@ -12,12 +12,18 @@ My PhD was under the supervision of Dr. Leonid Bogachev and Dr. Jochen Voss at t
  University of Leeds, Jan 2024 -- 
 
 Module leader for: MATH27775 Survival Analysis ; MATH5745 Multivariate Method (23/24)
-              MATH5741 Statistical Theory and Methods; MATH1603 Data Science and Communication (24/25)
+ 
+ MATH5741 Statistical Theory and Methods; MATH1603 Data Science and Communication (24/25)
+                   
+Master dissertation supervison: "Dimensionality Reduction Methods in Modern Multivariate Analysis"
+
+Summer bursary project supervision: "Investigating the Performance of Neural Networks in Learning Classification Rules using Simulated Data"
+
 
 > ### Teaching Assistant in Statistics
   University of Leeds, Apr 2023 -- Jan 2024
   
-  Teaching: MATH1710 Probability and Statistics
+  Teaching: MATH1710 Probability and Statistics; MATH2535 Financial Mathematics: Risk; MATH2715 Statistical Methods
 
   Exam marking: MATH2725 
  
@@ -43,16 +49,20 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 
 ## Publications and Preprints
 
-- ***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2021). [A generalized power law model of citations.](https://eprints.whiterose.ac.uk/179166/) In 18th International Conference on Scientometrics & Informetrics (ISSI 2021). Proceedings, pp. 843-848. International Society for Scientometrics and Informetrics, 2021. 
+- ***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2023). Sampling Almost Surely Finite Sequences of Independent Events, Exactly. Preprint (work in progress).
 
 - L.V. Bogachev, ***R. Nuermaimaiti*** & J. Voss (2023). [Limit Shape of the Generalized Inverse Gaussian-Poisson Distribution.](https://arxiv.org/abs/2303.08139) Preprint. Submitted.
+  
+-	***R. Nuermaimaiti (2023)***. Statistical models for frequency distributions of count data with applications to scientometrics. PhD thesis, University of Leeds. [thesis](https://etheses.whiterose.ac.uk/33446/)
+
+- ***R. Nuermaimaiti***, L.V. Bogachev & J. Voss (2021). [A generalized power law model of citations.](https://eprints.whiterose.ac.uk/179166/) In 18th International Conference on Scientometrics & Informetrics (ISSI 2021). Proceedings, pp. 843-848. International Society for Scientometrics and Informetrics, 2021. 
 
 
 ## Research Conferences and Seminars
 
- *   RSS International Conference 2024 (Brighton, 2024)
+ *  RSS International Conference 2024 (Brighton, 2024)
    
-   Contributed talk: “Beyond Diminishing Returns: A New Scoring System for Powerlifting”
+    Contributed talk: “Beyond Diminishing Returns: A New Scoring System for Powerlifting”
      
 * 	STEM for BRITAIN 2024 - Maths Finalist, poster presentation in House of Parliament (London, 2024)
  [Poster](https://stemforbritain.org.uk/2024-Posters/POS_Ruheyan%20Nuermaimaiti_GhcLM.pdf)
@@ -86,7 +96,7 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
    Oral talk: “Citation networks and integer partitions”
 
 
-## Teaching Training Workshops & Conferences
+## Teaching Training, Workshops & Conferences
 
 * PGCAP (Sep 2024 --) 
 
