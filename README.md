@@ -62,7 +62,7 @@ Processes; MATH3820 Bayesian Statistics, MATH3714 Linear Regression and Robutnes
 
  *  RSS International Conference 2024 (Brighton, 2024)
    
-    Contributed talk: “Beyond Diminishing Returns: A New Scoring System for Powerlifting”
+    Contributed talk: “Beyond Diminishing Returns: A New Scoring System for Powerlifting" [Abstract](https://virtual.oxfordabstracts.com/#/event/6693/submission/142)
      
 * 	STEM for BRITAIN 2024 - Maths Finalist, poster presentation in House of Parliament (London, 2024)
  [Poster](https://stemforbritain.org.uk/2024-Posters/POS_Ruheyan%20Nuermaimaiti_GhcLM.pdf)
