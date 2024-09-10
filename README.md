@@ -15,7 +15,7 @@ Module leader for: MATH27775 Survival Analysis ; MATH5745 Multivariate Method (2
  
  MATH5741 Statistical Theory and Methods; MATH1603 Data Science and Communication (24/25)
                    
-Master dissertation supervison: "Dimensionality Reduction Methods in Modern Multivariate Analysis"
+Master dissertation supervision: "Dimensionality Reduction Methods in Modern Multivariate Analysis"
 
 Summer bursary project supervision: "Investigating the Performance of Neural Networks in Learning Classification Rules using Simulated Data"
 
